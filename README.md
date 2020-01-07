@@ -6,7 +6,14 @@
 
 管理端效果图
 
+### 配置服务器管理
 ![image](https://raw.githubusercontent.com/chwjbn/CheerDbProxy/master/Doc/1.jpg)
+
+### 后端节点管理
 ![image](https://raw.githubusercontent.com/chwjbn/CheerDbProxy/master/Doc/2.jpg)
+
+### 前端访问账号管理
 ![image](https://raw.githubusercontent.com/chwjbn/CheerDbProxy/master/Doc/3.jpg)
+
+### 账号访问权限管理
 ![image](https://raw.githubusercontent.com/chwjbn/CheerDbProxy/master/Doc/4.jpg)
